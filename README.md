@@ -4,6 +4,8 @@ KTextViewPlaceholder
 Custom UITextView With Placeholder.
 
 
+![whats up](https://raw.github.com/kylescript/KTextViewPlaceholder/master/whats.png)
+
 How to use?
 
     //textView1
